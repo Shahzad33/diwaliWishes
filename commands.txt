@@ -1,0 +1,65 @@
+Basic Editing
+
+Copy Line Down: Shift + Alt + Down Arrow
+Copy Line Up: Shift + Alt + Up Arrow
+Move Line Down: Alt + Down Arrow
+Move Line Up: Alt + Up Arrow
+Delete Line: Ctrl + Shift + K
+Insert Line Below: Ctrl + Enter
+Insert Line Above: Ctrl + Shift + Enter
+Toggle Line Comment: Ctrl + /
+Toggle Block Comment: Shift + Alt + A
+Format Document: Shift + Alt + F
+Format Selection: Ctrl + K, Ctrl + F
+Select All Occurrences of Current Selection: Ctrl + Shift + L
+Select Next Occurrence: Ctrl + D
+Undo: Ctrl + Z
+Redo: Ctrl + Y
+
+
+Navigation
+
+
+Go to File: Ctrl + P
+Go to Line: Ctrl + G
+Go to Symbol: Ctrl + Shift + O
+Go to Definition: F12
+Peek Definition: Alt + F12
+Toggle Sidebar: Ctrl + B
+Navigate Back: Alt + Left Arrow
+Navigate Forward: Alt + Right Arrow
+Multi-Cursor and Selection
+Add Cursor Above: Ctrl + Alt + Up Arrow
+Add Cursor Below: Ctrl + Alt + Down Arrow
+Add Cursor to Line Ends: Shift + Alt + I
+Select Current Word: Ctrl + D
+Select All Occurrences: Ctrl + Shift + L
+Split Editor: Ctrl + \
+Close Editor: Ctrl + W
+
+
+File and Text Management
+
+
+New File: Ctrl + N
+Open File: Ctrl + O
+Save: Ctrl + S
+Save As: Ctrl + Shift + S
+Close Editor: Ctrl + W
+Close All Editors: Ctrl + K W
+Split Editor: Ctrl + \
+Cycle Between Open Files: Ctrl + Tab
+Command Palette
+Open Command Palette: Ctrl + Shift + P
+Search and Replace
+Find: Ctrl + F
+Replace: Ctrl + H
+Find in Files: Ctrl + Shift + F
+Replace in Files: Ctrl + Shift + H
+These shortcuts can be customized in VS Code by navigating to File > Preferences > Keyboard Shortcuts (Ctrl + K, Ctrl + S).
+
+
+
+
+
+
